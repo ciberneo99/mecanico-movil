@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mecanicomobil.netlify.app/sitemap.xml
